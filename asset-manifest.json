@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.076592f4.css",
+    "main.js": "/Weather-App/static/js/main.f647246e.js",
+    "static/media/WhatsApp Image 2023-09-28 at 20.39.14.jpg": "/Weather-App/static/media/WhatsApp Image 2023-09-28 at 20.39.14.a8ba2734ba85fe0ca29b.jpg",
+    "index.html": "/Weather-App/index.html",
+    "main.076592f4.css.map": "/Weather-App/static/css/main.076592f4.css.map",
+    "main.f647246e.js.map": "/Weather-App/static/js/main.f647246e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.076592f4.css",
+    "static/js/main.f647246e.js"
+  ]
+}
